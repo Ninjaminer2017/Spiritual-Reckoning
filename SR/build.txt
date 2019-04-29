@@ -1,0 +1,3 @@
+author = Ninjaminer2017
+version = 0.34
+displayName = Spiritual Reckoning
